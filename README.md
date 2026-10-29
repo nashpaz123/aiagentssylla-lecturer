@@ -1,8 +1,8 @@
 <div dir="rtl" lang="he">
 
-# ‏AI Agents — תסריטי מרצה (פרטי)
+# ‏AI Agents — תסריטי מרצה
 
-> **Repo פרטי למרצה בלבד.** מצגות הסטודנטים, Labs ו-demos נמצאים ב־[`nashpaz123/aiagentssylla`](https://github.com/nashpaz123/aiagentssylla).
+> תסריטי הקראה למרצה. מצגות הסטודנטים, Labs ו-demos נמצאים ב־[`nashpaz123/aiagentssylla`](https://github.com/nashpaz123/aiagentssylla).
 
 ## ‏מבנה
 

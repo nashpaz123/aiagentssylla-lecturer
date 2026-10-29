@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-**Private lecturer scripts** for a Hebrew-language "AI Agents" course (SPRINT Tech Academy), produced as **pre-recorded sessions**. The lecturer reads a script on camera while the student slides are shown on screen.
+**Lecturer scripts** for a Hebrew-language "AI Agents" course (SPRINT Tech Academy), produced as **pre-recorded sessions**. The lecturer reads a script on camera while the student slides are shown on screen.
 
 Student-facing materials (slides, labs, demos, assets) live in the sibling repo [`nashpaz123/aiagentssylla`](https://github.com/nashpaz123/aiagentssylla) (local path often `/stuff/prj/aiagentssylla/`). Keep both checkouts when editing so you can sync slide numbers.
 
